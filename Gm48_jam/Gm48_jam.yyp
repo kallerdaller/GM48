@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "25770922-996a-4b18-839f-f922ab5ba8ef",
+            "Value": {
+                "id": "a8380812-61b1-4001-9c33-31f661f85df0",
+                "resourcePath": "objects\\obj_hidden\\obj_hidden.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "40d6b572-dc01-41b5-b892-f527fbe61416",
             "Value": {
                 "id": "41df0718-ed6f-4d36-af8f-df805ca0066b",

@@ -39,11 +39,11 @@
             }
         },
         {
-            "Key": "3733aab4-2e28-4dd0-aaa5-eee1d8682e91",
+            "Key": "25770922-996a-4b18-839f-f922ab5ba8ef",
             "Value": {
-                "id": "aaf8de59-7893-4454-8111-54808fc71f82",
-                "resourcePath": "sprites\\sTile\\sTile.yy",
-                "resourceType": "GMSprite"
+                "id": "a8380812-61b1-4001-9c33-31f661f85df0",
+                "resourcePath": "objects\\obj_hidden\\obj_hidden.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -92,14 +92,6 @@
                 "id": "ac504936-3b98-4b22-98d7-310c1b2a1441",
                 "resourcePath": "views\\828641f6-7b96-4ce4-8fd3-d884b6467995.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "85e43d39-5a31-4c04-9e00-5dd389e7220c",
-            "Value": {
-                "id": "fe34faee-da98-405d-9889-908e2658a6f8",
-                "resourcePath": "sprites\\sBackground\\sBackground.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

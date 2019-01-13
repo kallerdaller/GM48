@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "8078c45a-eb20-44bb-928c-e57892f7a3c5",
-            "Value": {
-                "id": "93f96960-18f9-4712-9bad-d23a4a832fc6",
-                "resourcePath": "objects\\oFloor\\oFloor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "80fe5c38-a63d-4fbc-9cc1-e5e61c3bc62f",
             "Value": {
                 "id": "9282c8b6-4afd-4fd4-a8b3-8a3730d98bce",

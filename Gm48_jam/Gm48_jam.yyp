@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "5b6f9950-7456-4c51-b8bf-9c350da6b99f",
+            "Value": {
+                "id": "ab8055cc-69ff-405d-8e56-1f8555fe3f41",
+                "resourcePath": "sprites\\sLogo\\sLogo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5e5ce2be-fe20-4456-9c0f-678b79236f80",
             "Value": {
                 "id": "a57a1d29-dd17-48ff-9608-51206c1fc109",

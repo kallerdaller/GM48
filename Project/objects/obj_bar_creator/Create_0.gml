@@ -3,6 +3,6 @@
 
 randomise();
 //colors = ["red", "orange", "green", "blue", "indigo", "violet"];
-colors = ["red", "green", "blue", "purple", "yellow"];
+colors = ["red", "green", "blue", "pink", "yellow"];
 
 event_user(0);

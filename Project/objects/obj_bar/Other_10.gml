@@ -1,25 +1,20 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-image_speed = 0;
-
 switch (currentColor) {
     case "blue":
-        image_index = 0;
+        sprite_index = spr_bar_blue;
         break;
     case "green":
-        image_index = 1;
+        sprite_index = spr_bar_green;
         break;
     case "red":
-        image_index = 2;
+        sprite_index = spr_bar_red;
         break;
-    case "purple":
-        image_index = 3;
+    case "pink":
+        sprite_index = spr_bar_pink;
         break;
     case "yellow":
-        image_index = 4;
-        break;
-    default:
-        image_index = 0;
+        sprite_index = spr_bar_yellow;
         break;
 }

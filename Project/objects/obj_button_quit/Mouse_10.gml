@@ -1,16 +1,16 @@
 image_index = 1;
 
-
+//left
 yahboi = instance_position(160, 80, obj_yahboi_selectors);
 if(yahboi != noone)
 {
-	yahboi.y = 176;
-	yahboi.image_blend = make_color_rgb(255, 179, 71);
+	yahboi.y = 208;
+	yahboi.sprite_index = spr_yaboi_red;
 }
-
-yahboi = instance_position(320, 80, obj_yahboi_selectors);
+//right
+yahboi = instance_position(304, 80, obj_yahboi_selectors);
 if(yahboi != noone)
 {
-	yahboi.y = 176;
-	yahboi.image_blend = make_color_rgb(255, 179, 71);
+	yahboi.y = 208;
+	yahboi.sprite_index = spr_yaboi_red;
 }

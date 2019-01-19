@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "dd2e4426-1f85-4dd5-a50e-4bbb71717425",
+            "Value": {
+                "id": "2df8803b-8b82-4bf4-ad1e-a8cf6fb52f85",
+                "resourcePath": "sprites\\spr_bar_green\\spr_bar_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd2e9bb4-3c48-422a-a79d-229fd8605334",
             "Value": {
                 "id": "aca52fb9-6702-48bb-91ae-79c5b5ec0455",
@@ -544,7 +552,7 @@
         }
     ],
     "script_order": [
-
+        
     ],
     "tutorial": ""
 }

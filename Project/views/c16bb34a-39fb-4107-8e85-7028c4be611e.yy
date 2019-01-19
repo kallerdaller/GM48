@@ -8,7 +8,8 @@
         "9f74ab70-852a-43d1-9ccc-d105dde744fa",
         "afd41520-7b99-43fe-8847-a33d2299a23b",
         "ab6f7280-69bf-43f3-8869-ccb8f45dc9ea",
-        "72c049e5-761f-4e2a-ac08-dd672d786f48"
+        "72c049e5-761f-4e2a-ac08-dd672d786f48",
+        "dd2e4426-1f85-4dd5-a50e-4bbb71717425"
     ],
     "filterType": "GMSprite",
     "folderName": "Bars",

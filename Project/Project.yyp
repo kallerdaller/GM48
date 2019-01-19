@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "6040da99-88fd-4e6c-bb68-288dc01fef75",
+            "Value": {
+                "id": "3a87dbcd-a700-4f18-a7c6-3979acf23745",
+                "resourcePath": "objects\\obj_edible\\obj_edible.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "64717e5f-1793-491e-9914-93eaea05164d",
             "Value": {
                 "id": "597042cc-52cc-4c9e-bafc-77814f698e70",

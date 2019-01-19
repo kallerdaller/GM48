@@ -8,7 +8,7 @@ if(instance_nearest(x, y, obj_bar).y >= 256)
 	instance_destroy(bar);
 	bar = instance_nearest(x, y, obj_bar);
 	instance_destroy(bar);
-
+	score += 1;
 
 	event_user(0);
 }

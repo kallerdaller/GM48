@@ -1,5 +1,6 @@
 //change colour of sprite
-switch(obj_background.sprite_index)
+var inst = instance_place(x, y, obj_background);
+switch(inst.sprite_index)
 {
 	case(spr_temp_red): color = "red"; break;
 	case(spr_temp_blue): color = "blue"; break;

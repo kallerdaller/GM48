@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "37be11e4-b82e-459e-8de6-2ffb2e5ecc9a",
+            "Value": {
+                "id": "d01f39df-4bd8-4b40-bd43-4fc7dc5ede3d",
+                "resourcePath": "views\\37be11e4-b82e-459e-8de6-2ffb2e5ecc9a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "42cdfc43-7304-4f0e-b86d-193dbf68ad42",
             "Value": {
                 "id": "f9463cfa-f319-43c9-95a0-3f563fd7b271",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "592d13c2-5af8-4536-a979-35e72bdc158f",
+            "Value": {
+                "id": "aa8cfbd4-21fd-4f45-97a4-aed5530218e0",
+                "resourcePath": "sprites\\spr_yaboi_green\\spr_yaboi_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "64717e5f-1793-491e-9914-93eaea05164d",
             "Value": {
                 "id": "597042cc-52cc-4c9e-bafc-77814f698e70",
@@ -188,6 +204,14 @@
                 "id": "c25c6ff3-8af6-46b1-94a5-7a711d7be3ea",
                 "resourcePath": "views\\6863a19f-98dc-47e1-af61-9419123c7f69.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b197d7c-4d03-4bcd-bf0b-7f543a31a6b6",
+            "Value": {
+                "id": "05645330-0cc2-4222-884a-682ca9f8a0e3",
+                "resourcePath": "sprites\\spr_yaboi_red\\spr_yaboi_red.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -266,7 +290,7 @@
             "Key": "a96d104e-d11e-4e80-af37-7367af663896",
             "Value": {
                 "id": "7dd10333-b380-4b8c-8bfb-8b8a97ffc2ba",
-                "resourcePath": "sprites\\spr_yaboi\\spr_yaboi.yy",
+                "resourcePath": "sprites\\spr_yaboi_blue\\spr_yaboi_blue.yy",
                 "resourceType": "GMSprite"
             }
         },

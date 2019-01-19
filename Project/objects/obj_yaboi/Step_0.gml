@@ -9,9 +9,9 @@ switch(inst.sprite_index)
 
 switch(color)
 {
-	case("red"): image_blend = make_colour_rgb(255, 64, 64); break;
-	case("blue"): image_blend = make_colour_rgb(85, 85, 255); break;
-	case("green"): image_blend = make_colour_rgb(106, 190, 48); break;
+	case("red"): sprite_index = spr_yaboi_red; break;
+	case("blue"): sprite_index = spr_yaboi_blue; break;
+	case("green"): sprite_index = spr_yaboi_green; break;
 }
 
 //self explonatory player movement

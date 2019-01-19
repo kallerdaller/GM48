@@ -56,4 +56,4 @@ if (rainbowState and !alarm[0])
 }
 
 if (hp > 100) hp = 100;
-if (hp <= 0) game_restart();
+if (hp <= 0) room = rm_death;

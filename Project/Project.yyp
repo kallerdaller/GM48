@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "749133d1-41ab-4876-af48-95cfea838fc2",
+            "Value": {
+                "id": "ab5e8954-e720-46db-973d-40cf06430a06",
+                "resourcePath": "objects\\obj_bar_creator\\obj_bar_creator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ea207bd-9e95-41e8-8b88-851c3824b1f5",
             "Value": {
                 "id": "beaa1a89-c8a1-416b-827d-2fa57875def6",

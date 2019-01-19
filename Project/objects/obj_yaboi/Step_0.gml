@@ -2,9 +2,9 @@
 var inst = instance_place(x, y, obj_background);
 switch(inst.sprite_index)
 {
-	case(spr_temp_red): color = "red"; break;
-	case(spr_temp_blue): color = "blue"; break;
-	case(spr_temp_green): color = "green"; break;
+	case(spr_red): color = "red"; break;
+	case(spr_blue): color = "blue"; break;
+	case(spr_green): color = "green"; break;
 }
 
 switch(color)

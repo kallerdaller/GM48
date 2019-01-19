@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "027beb1a-e85c-425b-9e70-b11b0dc89387",
-            "Value": {
-                "id": "43019c21-c822-4bb3-a2f9-4261feabd1cf",
-                "resourcePath": "sprites\\spr_backgrounds\\spr_backgrounds.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0446ee61-1b9c-43be-bb44-1cd70938f982",
             "Value": {
                 "id": "c66ba852-9399-4723-87b0-608284d4b612",
@@ -114,7 +106,7 @@
             "Key": "4352fc45-9c7b-4837-bc68-58290d38bb15",
             "Value": {
                 "id": "46f0ca45-d3cb-42af-9cd7-d3d41dfc802c",
-                "resourcePath": "sprites\\spr_temp_blue\\spr_temp_blue.yy",
+                "resourcePath": "sprites\\spr_blue\\spr_blue.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +202,7 @@
             "Key": "7ea207bd-9e95-41e8-8b88-851c3824b1f5",
             "Value": {
                 "id": "beaa1a89-c8a1-416b-827d-2fa57875def6",
-                "resourcePath": "sprites\\spr_temp_green\\spr_temp_green.yy",
+                "resourcePath": "sprites\\spr_green\\spr_green.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -290,7 +282,7 @@
             "Key": "aa7b9d7d-e440-40a9-84c3-dfae7e3131b5",
             "Value": {
                 "id": "3f45ad95-0c07-4411-be4f-7284d3474ce8",
-                "resourcePath": "sprites\\spr_temp_red\\spr_temp_red.yy",
+                "resourcePath": "sprites\\spr_red\\spr_red.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -2,7 +2,7 @@
     "id": "dd2e9bb4-3c48-422a-a79d-229fd8605334",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_background_temp_blue",
+    "name": "obj_middle",
     "eventList": [
         
     ],

@@ -242,7 +242,7 @@
             "Key": "b6829850-bf95-4964-8e0a-42f62aefd8f7",
             "Value": {
                 "id": "32a9fb00-b976-4d8e-8be5-80db1017789e",
-                "resourcePath": "objects\\obj_background_temp_green\\obj_background_temp_green.yy",
+                "resourcePath": "objects\\obj_right\\obj_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "c855fc20-258b-44cc-bf8b-3fe84f30ab18",
             "Value": {
                 "id": "c5d50bd9-0fb0-4fc0-8c89-ceff16cb077d",
-                "resourcePath": "objects\\obj_background_temp_red\\obj_background_temp_red.yy",
+                "resourcePath": "objects\\obj_left\\obj_left.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "dd2e9bb4-3c48-422a-a79d-229fd8605334",
             "Value": {
                 "id": "aca52fb9-6702-48bb-91ae-79c5b5ec0455",
-                "resourcePath": "objects\\obj_background_temp_blue\\obj_background_temp_blue.yy",
+                "resourcePath": "objects\\obj_middle\\obj_middle.yy",
                 "resourceType": "GMObject"
             }
         },

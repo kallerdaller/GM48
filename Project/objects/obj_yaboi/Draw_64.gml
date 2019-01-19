@@ -3,5 +3,5 @@ draw_set_valign(fa_center);
 
 draw_text(10, 10, "HP " + string(hp) + " %");
 
-//for testing purposes
+//for testing purposes safe to delete
 //draw_text(10, 10, alarm[0]);

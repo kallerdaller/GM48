@@ -7,11 +7,14 @@ switch(inst.sprite_index)
 	case(spr_green): color = "green"; break;
 }
 
-switch(color)
+if (!rainbowState)
 {
-	case("red"): sprite_index = spr_yaboi_red; break;
-	case("blue"): sprite_index = spr_yaboi_blue; break;
-	case("green"): sprite_index = spr_yaboi_green; break;
+	switch(color)
+	{
+		case("red"):  sprite_index = spr_yaboi_red; break;
+		case("blue"):  sprite_index = spr_yaboi_blue; break;
+		case("green"):  sprite_index = spr_yaboi_green; break;
+	}
 }
 
 //self explonatory player movement
@@ -45,3 +48,11 @@ else if(mouse_check_button_pressed(mb_right))
 	obj_left.sprite_index = obj_middle.sprite_index;
 	obj_middle.sprite_index = tmp;
 }
+
+if (rainbowState and !alarm[0]) 
+{
+	alarm[0] = 1 * room_speed;
+	sprite_index = spr_rainbowState;
+}
+
+if (hp <= 0) game_restart();

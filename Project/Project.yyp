@@ -378,7 +378,7 @@
             "Key": "c600fc87-6d17-40d5-ba78-bd899358ea1e",
             "Value": {
                 "id": "94cab0d9-6e18-4164-af35-432df20645d1",
-                "resourcePath": "objects\\obj_musicBox\\obj_musicBox.yy",
+                "resourcePath": "objects\\obj_musicBox_Pausing\\obj_musicBox_Pausing.yy",
                 "resourceType": "GMObject"
             }
         },

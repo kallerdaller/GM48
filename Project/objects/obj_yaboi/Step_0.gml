@@ -9,9 +9,9 @@ switch(inst.sprite_index)
 
 switch(color)
 {
-	case("red"): image_blend = make_colour_rgb(130, 0, 0); break;
-	case("blue"): image_blend = make_colour_rgb(0, 0, 130); break;
-	case("green"): image_blend = make_colour_rgb(130, 205, 130); break;
+	case("red"): image_blend = make_colour_rgb(255, 64, 64); break;
+	case("blue"): image_blend = make_colour_rgb(85, 85, 255); break;
+	case("green"): image_blend = make_colour_rgb(106, 190, 48); break;
 }
 
 //self explonatory player movement

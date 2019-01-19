@@ -55,4 +55,5 @@ if (rainbowState and !alarm[0])
 	sprite_index = spr_rainbowState;
 }
 
+if (hp > 100) hp = 100;
 if (hp <= 0) game_restart();

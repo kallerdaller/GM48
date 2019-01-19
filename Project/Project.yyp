@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "69550164-129c-4a89-ab72-e3694ea63e8e",
+            "Value": {
+                "id": "923aaa46-c37e-4de1-8617-919234b24ab9",
+                "resourcePath": "sprites\\spr_rainbowState\\spr_rainbowState.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b197d7c-4d03-4bcd-bf0b-7f543a31a6b6",
             "Value": {
                 "id": "05645330-0cc2-4222-884a-682ca9f8a0e3",

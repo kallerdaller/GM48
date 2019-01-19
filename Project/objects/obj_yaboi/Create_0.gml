@@ -1,2 +1,4 @@
 color = "";
-score = 0;
+hp = 100;
+rainbowState = false;
+alarm[1] = 1;

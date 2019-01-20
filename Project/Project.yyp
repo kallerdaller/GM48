@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "171e7e75-e14d-48e0-8c37-2e26b9cffe16",
+            "Value": {
+                "id": "294317fd-59c7-4ce0-837d-3f30d8d48148",
+                "resourcePath": "sprites\\spr_black_ink\\spr_black_ink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22e8cf28-4627-479d-9284-c2f7a75e9693",
             "Value": {
                 "id": "9ecc422f-048d-44e0-b119-5a91272bb5ce",

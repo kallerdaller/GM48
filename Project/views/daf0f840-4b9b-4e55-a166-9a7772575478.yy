@@ -6,7 +6,8 @@
     "children": [
         "2c6c57ea-e964-401c-9512-72f09e6cfa48",
         "4ebf80be-62bc-455e-969c-1fc09fd0258e",
-        "cee2a9f3-4b3b-4c17-8987-be54d4b10822"
+        "cee2a9f3-4b3b-4c17-8987-be54d4b10822",
+        "171e7e75-e14d-48e0-8c37-2e26b9cffe16"
     ],
     "filterType": "GMSprite",
     "folderName": "Ink",

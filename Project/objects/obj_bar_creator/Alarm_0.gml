@@ -2,6 +2,7 @@
 
 if (gameSpeed < 2)
 {
-	gameSpeed += 0.25;
+	gameSpeed += 0.5;
+	obj_background.backgroundSpeed += 0.5;
 	alarm[0] = 60 * room_speed;
 }

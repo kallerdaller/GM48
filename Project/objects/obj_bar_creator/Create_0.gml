@@ -9,4 +9,4 @@ event_user(0);
 
 gameSpeed = 1;
 
-alarm[0] = 60 * room_speed;
+alarm[0] = 30 * room_speed;

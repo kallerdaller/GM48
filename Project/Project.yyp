@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "ca57faea-07f5-4612-9121-76c74005bd28",
+            "Value": {
+                "id": "728b17b4-ac99-4958-a7b3-af99d97c230d",
+                "resourcePath": "objects\\obj_inkCloud\\obj_inkCloud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "44dfcbef-5973-483c-8165-ebeb1c1ca308",

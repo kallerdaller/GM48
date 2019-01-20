@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "736b43cd-2f1e-44aa-9889-36a48621d1c9",
+            "Value": {
+                "id": "582fbb5f-13df-4dc0-bea6-a623213a92a4",
+                "resourcePath": "sounds\\death\\death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "749133d1-41ab-4876-af48-95cfea838fc2",
             "Value": {
                 "id": "ab5e8954-e720-46db-973d-40cf06430a06",

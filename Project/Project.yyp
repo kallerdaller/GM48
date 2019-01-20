@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "d5dd2b12-6abf-41e4-bf73-1a12b094bfed",
+            "Value": {
+                "id": "eed69b38-5653-4ef3-81fe-2f8ae60e3681",
+                "resourcePath": "sprites\\spr_logo\\spr_logo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d6ffc07f-4403-41e8-90cf-ad714f8e631b",
             "Value": {
                 "id": "305a541b-27f3-4ac4-beac-b6dbe265da42",

@@ -1,7 +1,7 @@
 /// @description spawn bars & food
 
 dir = irandom(2)-1;
-food = instance_create_layer(obj_yaboi.y + (obj_yaboi.sprite_width/2) + 8 + (96*dir), -128, "yaboi", obj_edible);
+food = instance_create_layer(232 + (96*dir), irandom_range(-40, -150) , "yaboi", obj_edible);
 
 bar1 = instance_create_layer(96, -16, "yaboi", obj_bar);
 bar2 = instance_create_layer(192, -16, "yaboi", obj_bar);

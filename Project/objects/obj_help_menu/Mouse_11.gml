@@ -1,1 +1,1 @@
-obj_help_menu.toDraw = !obj_help_menu.toDraw;
+toDraw = !toDraw;

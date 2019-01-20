@@ -1,1 +1,1 @@
-game_end();
+if(!obj_help_menu.toDraw) game_end();

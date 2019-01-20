@@ -1,1 +1,1 @@
-room_goto(room0)
+if(!obj_help_menu.toDraw) room_goto(room0)

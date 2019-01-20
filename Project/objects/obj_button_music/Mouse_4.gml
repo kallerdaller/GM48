@@ -1,8 +1,11 @@
-if(obj_musicBox.playMusic)
+if(!obj_help_menu.toDraw)
 {
-	obj_musicBox.playMusic = false;
-}
-else
-{
-	obj_musicBox.playMusic = true
+	if(obj_musicBox.playMusic)
+	{
+		obj_musicBox.playMusic = false;
+	}
+	else
+	{
+		obj_musicBox.playMusic = true
+	}
 }

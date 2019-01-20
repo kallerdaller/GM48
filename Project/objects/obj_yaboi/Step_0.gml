@@ -32,7 +32,7 @@ if(keyboard_check_pressed(ord("A")) or keyboard_check_pressed(ord("D")))
 	if(position_meeting(x + 96 * pMoveDir, y, obj_bumper)) {}
 	else 
 	{
-		instance_create_layer(obj_yaboi.x, obj_yaboi.y, "yaboi", obj_inkCloud);
+		instance_create_layer(x - 8, y, "inkLayer", obj_inkCloud);
 		x += 96 * pMoveDir;
 	}
 }

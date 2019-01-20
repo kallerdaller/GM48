@@ -1,0 +1,2 @@
+playMusic = true;
+playSound = true;

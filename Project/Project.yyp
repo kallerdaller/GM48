@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "706f794b-6fb8-4503-92be-57d1ebe2d1fb",
+            "Value": {
+                "id": "93ad273a-e313-4173-8958-e071235eadc5",
+                "resourcePath": "objects\\obj_pausing\\obj_pausing.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "749133d1-41ab-4876-af48-95cfea838fc2",
             "Value": {
                 "id": "ab5e8954-e720-46db-973d-40cf06430a06",
@@ -466,7 +474,7 @@
             "Key": "c600fc87-6d17-40d5-ba78-bd899358ea1e",
             "Value": {
                 "id": "94cab0d9-6e18-4164-af35-432df20645d1",
-                "resourcePath": "objects\\obj_musicBox_Pausing\\obj_musicBox_Pausing.yy",
+                "resourcePath": "objects\\obj_musicBox\\obj_musicBox.yy",
                 "resourceType": "GMObject"
             }
         },

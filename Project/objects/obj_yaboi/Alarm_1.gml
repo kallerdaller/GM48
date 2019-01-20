@@ -25,10 +25,10 @@ else minutes = string(m) + ":";
 if (s < 10) seconds = "0" + string(s);
 else seconds = string(s);
 
-obj_musicBox_Pausing.time = hours + minutes + seconds;
+obj_pausing.time = hours + minutes + seconds;
 
-if (h == 0 and m == 0) obj_musicBox_Pausing.time += "s";
-else if (h == 0) obj_musicBox_Pausing.time += "m";
-else obj_musicBox_Pausing.time += "h";
+if (h == 0 and m == 0) obj_pausing.time += "s";
+else if (h == 0) obj_pausing.time += "m";
+else obj_pausing.time += "h";
 
 alarm[1] = 1 * room_speed;

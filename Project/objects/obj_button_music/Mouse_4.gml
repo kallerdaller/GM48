@@ -1,8 +1,8 @@
-if(obj_musicBox_Pausing.playMusic)
+if(obj_musicBox.playMusic)
 {
-	obj_musicBox_Pausing.playMusic = false;
+	obj_musicBox.playMusic = false;
 }
 else
 {
-	obj_musicBox_Pausing.playMusic = true
+	obj_musicBox.playMusic = true
 }

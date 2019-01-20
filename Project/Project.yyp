@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "1b641280-45bc-40bf-b64f-9fb3099a0628",
-            "Value": {
-                "id": "77b24af1-90ce-48aa-9071-9fa95de6ab75",
-                "resourcePath": "sprites\\spr_border\\spr_border.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "22e8cf28-4627-479d-9284-c2f7a75e9693",
             "Value": {
                 "id": "9ecc422f-048d-44e0-b119-5a91272bb5ce",

@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "736b43cd-2f1e-44aa-9889-36a48621d1c9",
+            "Value": {
+                "id": "582fbb5f-13df-4dc0-bea6-a623213a92a4",
+                "resourcePath": "sounds\\death\\death.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "749133d1-41ab-4876-af48-95cfea838fc2",
             "Value": {
                 "id": "ab5e8954-e720-46db-973d-40cf06430a06",
@@ -484,6 +492,14 @@
                 "id": "f1a731d0-e83a-465e-83d6-590492d61a94",
                 "resourcePath": "objects\\obj_yaboi\\obj_yaboi.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b4d6367e-c000-4576-98d7-093e4a5cdbcd",
+            "Value": {
+                "id": "e3d32774-e6c1-4677-810c-ab86d5c12d2d",
+                "resourcePath": "sprites\\spr_title\\spr_title.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

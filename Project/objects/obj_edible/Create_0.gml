@@ -15,3 +15,5 @@ switch (rnd) {
 		currentColor = "blue";
         break;
 }
+
+run = false;

@@ -1,4 +1,4 @@
-y += 1;
+y += obj_bar_creator.gameSpeed;
 
 if (place_meeting(x-10, y-10, obj_yaboi))
 {

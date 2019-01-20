@@ -6,3 +6,7 @@ randomise();
 colors = ["red", "green", "blue", "pink", "yellow"];
 
 event_user(0);
+
+gameSpeed = 1;
+
+alarm[0] = 60 * room_speed;

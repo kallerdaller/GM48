@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "ea27e406-3582-48f5-999b-da85915bb684",
+            "Value": {
+                "id": "0fe73391-f28d-42bb-801b-2a66d3ea6ab5",
+                "resourcePath": "sprites\\spr_bumper_alt\\spr_bumper_alt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ead63924-7dc9-4546-ae0b-392934d76a1a",
             "Value": {
                 "id": "1ac6543d-b8f9-4747-b201-1e75f1de7f2d",

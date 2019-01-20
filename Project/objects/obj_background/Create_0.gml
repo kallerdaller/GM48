@@ -1,1 +1,0 @@
-/// @description this is my parent object, no need for sprite

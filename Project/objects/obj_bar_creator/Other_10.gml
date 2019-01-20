@@ -1,7 +1,10 @@
 /// @description spawn bars & food
 
 dir = irandom(2)-1;
-food = instance_create_layer(232 + (96*dir), irandom_range(-40, -150) , "yaboi", obj_edible);
+
+if (!variable_global_exists("foodNotTooCloseToEachOther")) foodNotTooCloseToEachOther = 0;
+food = instance_create_layer(232 + (96*dir), irandom_range(-56 - foodNotTooCloseToEachOther, -232), "yaboi", obj_edible);
+foodNotTooCloseToEachOther = food.y + 40;
 
 bar1 = instance_create_layer(96, -16, "yaboi", obj_bar);
 bar2 = instance_create_layer(192, -16, "yaboi", obj_bar);

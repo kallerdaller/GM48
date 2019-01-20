@@ -1,0 +1,1 @@
+y += obj_bar_creator.gameSpeed;

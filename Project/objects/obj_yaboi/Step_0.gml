@@ -30,7 +30,11 @@ if(keyboard_check_pressed(ord("A")) or keyboard_check_pressed(ord("D")))
 {
 	//jumping from lane to lane if there is no bumper in your way
 	if(position_meeting(x + 96 * pMoveDir, y, obj_bumper)) {}
-	else x += 96 * pMoveDir;
+	else 
+	{
+		if(!instance_exists(obj_inkCloud)) instance_create_layer(x, y, "yaboi", obj_inkCloud);
+		x += 96 * pMoveDir;
+	}
 }
 
 //background shifting
